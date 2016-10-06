@@ -1,6 +1,6 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/196/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-costa-rica-201)
-[![Build Status](https://travis-ci.org/OCA/l10n-costa-rica.svg?branch=9.0)](https://travis-ci.org/OCA/l10n-costa-rica)
-[![Coverage Status](https://coveralls.io/repos/OCA/l10n-costa-rica/badge.svg?branch=9.0&service=github)](https://coveralls.io/github/OCA/l10n-costa-rica?branch=9.0)
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/196/10.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-costa-rica-201)
+[![Build Status](https://travis-ci.org/OCA/l10n-costa-rica.svg?branch=10.0)](https://travis-ci.org/OCA/l10n-costa-rica)
+[![Coverage Status](https://coveralls.io/repos/OCA/l10n-costa-rica/badge.svg?branch=10.0&service=github)](https://coveralls.io/github/OCA/l10n-costa-rica?branch=10.0)
 [![Code Climate](https://codeclimate.com/github/OCA/l10n-costa-rica/badges/gpa.svg)](https://codeclimate.com/github/OCA/l10n-costa-rica)
 
 # Costa-Rica localisation
@@ -12,7 +12,7 @@ write me
 
 Translation Status
 ------------------
-[![Transifex Status](https://www.transifex.com/projects/p/OCA-l10n-costa-rica-9-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-l10n-costa-rica-9-0)
+[![Transifex Status](https://www.transifex.com/projects/p/OCA-l10n-costa-rica-10-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-l10n-costa-rica-10-0)
 
 ----
 
